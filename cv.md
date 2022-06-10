@@ -8,3 +8,7 @@ In high school, I was interested in computer hardware, helped friends upgrade th
 - HTML&CSS
 ### Experience
 I completed a small project. It's called brain-games. It is a part of the backend developer profession at the hexlet online programming school. [git](https://github.com/alex343434/project-lvl1-s454)
+### Education
+I've graduated the radio engineering College in 2010. I have been studying Hexlet, HTML Academy online courses recently.
+### English
+My English level is A2.
