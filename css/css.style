@@ -1,0 +1,67 @@
+.page {
+    width: 960px;
+    margin: 0 auto;
+    font-family: 'Baloo Chettan 2', cursive;
+    font-size: 18px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    background-color: cornsilk;
+    padding: 0px 30px;
+    min-height: 100%;
+}
+
+.main {
+    flex-grow: 1;
+}
+
+.user {
+    display: flex;
+    background-color: rgba(247, 231, 11, 0.562);
+    padding: 5px 10px;
+}
+
+.user__avatar {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.user__name {
+    margin-top: 0;
+}
+
+.user__summary {
+    padding-right: 20px;
+}
+
+.experience__link {
+    text-decoration: none;
+    color: green;
+}
+
+.footer {
+    flex-grow: 0;
+    background-color: rgba(247, 231, 11, 0.562);
+    height: 100px;
+}
+
+.hfont {
+    font-family: 'Aleo', serif;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.visually-hidden {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+  }
